@@ -1,4 +1,4 @@
-# OS Jackfruit Mini Container Runtime
+# Mini Container Runtime
 
 ## 1. Team Information
 - **Name:** Kundan V  
